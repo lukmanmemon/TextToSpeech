@@ -14,4 +14,4 @@ A text to speech GUI application using the Python package 'tkinter'. Input text 
 * Create the installer for the application using `python setup.py build`
 * Run the TextToSpeech.exe file located in the build directory
 
-
+https://user-images.githubusercontent.com/52639954/125180793-76582c00-e1cc-11eb-81ff-227018d26fae.mp4
