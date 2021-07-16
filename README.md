@@ -2,6 +2,8 @@
 
 A text to speech GUI application using the Python package 'tkinter'. Input text or upload a text file and listen to the audio with the click of a button.
 
+Scroll down for a demo video of the application 🠋
+
 # How to run the project?
 
 * Clone github repository in your local system `git clone https://github.com/lukmanmemon/TextToSpeech.git`
